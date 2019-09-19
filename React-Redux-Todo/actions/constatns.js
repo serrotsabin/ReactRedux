@@ -1,0 +1,8 @@
+export default {
+    INCREMENT: 'INCREMENT',
+    DECREMENT: 'DECREMENT',
+
+    ADD_TODO: 'ADD_TODO',
+    REMOVE_TODO: 'REMOVE_TODO',
+    TOOGLE:'TOOGLE'
+}
